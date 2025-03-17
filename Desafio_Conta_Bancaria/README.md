@@ -1,18 +1,19 @@
-## Getting Started
+# Desafio - Sistema de Criação de Conta Bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi proposto pelo curso de **Java Developer** com o objetivo de criar um sistema simples de criação de contas bancárias, onde o usuário pode inserir os dados das contas diretamente pelo terminal.
 
-## Folder Structure
+## Objetivo
 
-The workspace contains two folders by default, where:
+O projeto tem como objetivo treinar os conceitos trabalhados no módulo de sintaxe Java, permitindo que os alunos pratiquem a utilização de variáveis, métodos, entrada de dados e estruturas de controle.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- O usuário pode inserir dados para a criação de uma conta bancária, como nome, número da conta, saldo inicial, entre outros.
+- O sistema irá armazenar essas informações e permitir o gerenciamento básico da conta bancária.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Certifique-se de ter o **Java 8 ou superior** instalado em sua máquina.
+2. Clone o repositório para o seu computador:
+   ```bash
+   git clone https://github.com/alocss/CursoJavaDeveloper/edit/main/Desafio_Conta_Bancaria/
